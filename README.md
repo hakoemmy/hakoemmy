@@ -2,7 +2,7 @@
 ### A Full Stack Software Engineer
 
 
-![Start Game](hakoemmy.jpg)
+![Start Game](./hakoemmy.jpg)
 
 - 🔭 I’m currently working on a digital group financing platform which enables people to pull funds together in a group.
 - 🌱 I’m currently learning USSD/Cards integrations.
