@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 👋, I am Emmanuel H.
+### A Full Stack Software Engineer
 
-<!--
-**hakoemmy/hakoemmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Start Game](/hakoemmy.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a digital group financing platform which enables people to pull funds together in a group.
+- 🌱 I’m currently learning USSD/Cards integrations.
+- 👯 I’m looking to collaborate on React Native, Flutter and NodeJs.
+- 🤔 I’m looking for help with VPS managment(Nginx and Firewall advanced configs)
+- 💬 Ask me anything related to TECH, I am always eager to respond back to you?, YES, this is so true. I can't miss to mingle with you about TECH.
+- 📫 How to reach me: Please do hit me up via [my website](https://www.emmanuelhakorimana.me/).
+- ⚡ Fun fact: I am a programming meme addict! Please whenever you get some memes, send them on my way, Can't wait to 😄. 
+
