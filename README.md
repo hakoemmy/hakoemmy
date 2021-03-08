@@ -1,7 +1,7 @@
 ### Hello! 👋, I am Emmanuel H.
 ### A Full Stack Software Engineer, Tech lead
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/hakoemmy/github-stats">
 
 ![](https://github.com/hakoemmy/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/hakoemmy/github-stats/blob/master/generated/languages.svg)
