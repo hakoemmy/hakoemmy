@@ -1,7 +1,13 @@
-### Hello! 👋, I am Emmanuel H.
+### Hello! 👋, I am Emmanuel Hakorimana.
 ### A Full Stack Software Engineer, Tech lead
 
 
+<a href="https://github.com/hakoemmy/github-actions">
+
+![](https://github.com/hakoemmy/github-actions/blob/master/generated/overview.svg)
+![](https://github.com/hakoemmy/github-actions/blob/master/generated/languages.svg)
+
+</a>
 
 ![Image](https://www.masterdc.com/images/photos/best-music-for-programmers.jpg)
 
