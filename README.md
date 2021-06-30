@@ -9,7 +9,6 @@
 
 </a>
 
-![Image](https://www.masterdc.com/images/photos/best-music-for-programmers.jpg)
 
 - 💬 Ask me anything related to TECH, I am always eager to respond back to you?, YES, this is so true. I can't miss to mingle with you about TECH.
 - 📫 How to reach me: Please do hit me up via [my website](https://www.emmanuelhakorimana.me/).
