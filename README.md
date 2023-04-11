@@ -1,5 +1,5 @@
 ### Hello! 👋, I am Emmanuel Hakorimana.
-### A Full stack Software engineer, DevOps engineer, Solutions Architect and Tech lead with 6+ years of experience.
+### A Software engineer with 7+ years of experience.
 
 
 - 💬 Ask me anything related to TECH, I am always eager to respond back to you! I can't miss to mingle with you about TECH.
