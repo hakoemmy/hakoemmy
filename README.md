@@ -17,13 +17,13 @@
 ### Frontend:
 
 ✅ React, Redux, Material UI, Tailwind CSS\
-✅ React Native CLI/Expo\
+✅ React Native CLI/Expo
 
 ### DevOps
 
 ✅ Docker, Kubernetes(k8s)\
 ✅ AWS\
-✅ Azure\
+✅ Azure
 
 🏆 My commitment is to deliver results that exceed your expectations, on time and within budget. Let's collaborate and turn your vision into a reality!
 
