@@ -6,8 +6,8 @@
 
 ### Backend:
 
-✅ NestJS & Node.js - Typescript and Javascript
-✅ Express/Fastify
+✅ NestJS & Node.js - Typescript and Javascript\
+✅ Express/Fastify\
 ✅ Serverless: Firebase Cloud Functions, Lambda, API Gateway. etc
 ✅ Postgres/MYSQL(Sequelize, TypeORM and Prisma), MongoDB(Mongoose)
 ✅ BullMQ, Redis, Redis Streams adapter, Web Sockets, SSE(Server Sent Events), RabbitMQ, Kafka
