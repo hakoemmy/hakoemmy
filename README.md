@@ -12,7 +12,7 @@
 ✅ Postgres/MYSQL(Sequelize, TypeORM and Prisma), MongoDB(Mongoose)\
 ✅ BullMQ, Redis, Redis Streams adapter, Web Sockets, SSE(Server Sent Events), RabbitMQ, Kafka\
 ✅ AWS SNS, EC2, S3, SES, Web Push Protocol, APN, FCM, Sengrid, MailDril, OneSignal\
-✅ Rest, Graphql, microservices\
+✅ Rest, Graphql, microservices
 
 ### Frontend:
 
@@ -25,6 +25,6 @@
 ✅ AWS\
 ✅ Azure\
 
-🏆 My commitment is to deliver results that exceed your expectations, on time and within budget. Let's collaborate and turn your vision into a reality!\
+🏆 My commitment is to deliver results that exceed your expectations, on time and within budget. Let's collaborate and turn your vision into a reality!
 
-💬 Interested in discussing your project or exploring how I can contribute to your team? Don't hesitate to reach out. Let's build something amazing together!\
+💬 Interested in discussing your project or exploring how I can contribute to your team? Don't hesitate to reach out. Let's build something amazing together!
