@@ -1,5 +1,5 @@
 ### Hello! 👋, I am Emmanuel Hakorimana,
-### A software engineer with over 7 years of experience, specializing in architecting backend solutions.
+### A software engineer with 5+ years of experience, specializing in architecting backend solutions.
 
 
 🌐 My Expertise:
