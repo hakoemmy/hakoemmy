@@ -1,5 +1,5 @@
 ### Hello! 👋, I am Emmanuel Hakorimana,
-### A software engineer with 9+ years of experience.
+### A software engineer with 7+ years of experience.
 
 
 🌐 My Expertise:
